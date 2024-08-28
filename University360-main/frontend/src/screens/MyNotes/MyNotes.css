@@ -1,0 +1,11 @@
+.flexdiv {
+    display: flex;
+}
+
+.flexdiv .mainContent {
+    width: auto;
+}
+
+.flexdiv Button {
+    margin: 1rem 0;
+}
